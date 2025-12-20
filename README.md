@@ -380,3 +380,12 @@ docker-compose up --build
 - [ ] Alerting rules
 - [ ] Integration with CI/CD
 - [ ] Performance optimization insights
+
+## AI/NLP Capabilities
+
+This project includes AI and NLP utilities for:
+- Text processing and tokenization
+- Similarity calculation
+- Natural language understanding
+
+*Last updated: 2025-12-20*
