@@ -67,3 +67,4 @@ func (ma *MetricAggregator) GetAllAggregations() map[string]*Aggregation {
 	return result
 }
 
+
